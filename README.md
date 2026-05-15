@@ -24,11 +24,7 @@ The system supports:
 
 Repository URL:
 
-https://github.com/FaridKumarReddyKattekommula/Student-Assignment-Tracker-System
-
-Commit Activity:
-
-https://github.com/FaridKumarReddyKattekommula/Student-Assignment-Tracker-System/graphs/commit-activity
+https://github.com/FaridKumar/Student-Assignment-Tracker-System
 
 ---
 
